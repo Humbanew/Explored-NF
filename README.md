@@ -8,8 +8,6 @@
 
 ✔️ Icons Resource Pack by ***mr_ch0c0late1***;
 
-✔️ Unity Resource Pack by ***theCyanidex***;
-
 ✔️ Fancy's Skies Resouce Pack by ***ratchet_97***;
 
 ✔️ PvP Font Resouce Pack by ***croabeast***;
