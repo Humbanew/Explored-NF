@@ -1,0 +1,11 @@
+{
+  "tell": {
+  "replace": true,
+  "sounds": [
+      {
+        "name": "tell",
+        "type": "event"
+      }
+    ]
+  }
+}
