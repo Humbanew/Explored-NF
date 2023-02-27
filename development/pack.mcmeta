@@ -1,4 +1,6 @@
 { 
-  "pack_format": 9, 
-  "description": "HN Explored NeoFlattur v0.0.1 [Requires Optifine]" 
+  "pack": {
+     "pack_format": 9, 
+     "description": "§5§lHN Explored NeoFlattur \n§1§lv0.0.1 1.19-1.19.2 [Requires Optifine]" 
+  }	
 }
