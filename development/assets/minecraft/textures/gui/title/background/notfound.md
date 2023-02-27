@@ -1,1 +1,0 @@
-Sem imagens por aqui.
